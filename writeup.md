@@ -112,8 +112,6 @@ My final model consisted of the following layers:
 | RELU					|												|
 | Dropout               |                                               |
 | Fully connected		| outputs 43              						|
-| Softmax				| etc.        									|
-
  
 
 
